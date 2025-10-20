@@ -1,0 +1,7 @@
+openai
+asyncio
+python-pptx
+python-docx
+semantic_kernel
+python-dotenv
+requests
