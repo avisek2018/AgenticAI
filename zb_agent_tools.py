@@ -1,5 +1,5 @@
 """
-NEW 06: Multiple Function Tools (Interactive Demo)
+Multiple Function Tools (Interactive Demo)
 
 This demo shows an agent with MULTIPLE tools:
 
@@ -284,3 +284,4 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         print("Shutting down")
+
